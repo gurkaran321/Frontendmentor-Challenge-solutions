@@ -58,7 +58,7 @@ html {
 }
 
 .text-dark {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
 }
 
 .desig,
@@ -68,7 +68,7 @@ html {
 
 .text-light {
     padding-right: 1rem;
-    font-size: 1rem;
+    font-size: 1.12rem;
 }
 
 @media (min-width:700px) {
