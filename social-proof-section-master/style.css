@@ -171,4 +171,7 @@ h3 {
     .end {
         align-self: flex-end;
     }
+    .rating .rating__text {
+        margin-top: 0;
+    }
 }
