@@ -193,4 +193,9 @@ footer ul {
     .icons img {
         margin: 0;
     }
+    .six img {
+        width: 100%;
+        height: auto;
+        margin-right: 2rem;
+    }
 }
